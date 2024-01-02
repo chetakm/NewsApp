@@ -15,4 +15,6 @@ The News Web App is a Django-based platform designed to display the latest news 
 - **Article Display**: View the latest news articles.
 
 ![Image Alt Text](Screenshot241.png)
+<img src="Screenshot241.png" alt="My Image">
+
 <img src="Screenshot241.png"></img>
