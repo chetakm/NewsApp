@@ -13,3 +13,8 @@ The News Web App is a Django-based platform designed to display the latest news 
 ## Features
 
 - **Article Display**: View the latest news articles.
+
+![Image Alt Text](https://github.com/chetakm/newsapp/commit/a94793c7d904862ca23315b6fd867d9788cd9802.png)
+
+
+https://github.com/chetakm/newsapp/commit/a94793c7d904862ca23315b6fd867d9788cd9802
