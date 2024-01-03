@@ -1,4 +1,4 @@
-<h1>News Web App</h1>
+<h1>News App</h1>
 
 <p>This is a news web application developed using Django.</p>
 
